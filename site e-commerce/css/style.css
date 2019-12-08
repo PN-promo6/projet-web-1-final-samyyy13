@@ -1,0 +1,348 @@
+* {
+
+  text-decoration: none;
+  color: black;
+}
+
+
+body {
+  margin: 0 auto;
+  font-family:roboto, sans-serif;
+  position: static;
+}
+
+
+
+/* NAVBAR */
+.logo-ctn {
+  display: inline-block;
+  height: 10px;
+  margin: 1rem;
+  position: relative;
+  width: 300px;
+  text-align: left;
+  text-decoration: none;
+  color: black;
+  position: absolute;
+  left: 3.12%;
+  right: 84.17%;
+  top: 0.59%;
+  font-family: "Palanquin", sans-serif;
+  font-style: normal;
+  font-size: 50px;
+}
+
+nav {
+  text-align: center;
+}
+
+nav li {
+  padding: 10px 2rem;
+}
+
+li {
+  padding: 500px;
+}
+
+.container ul li {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+/* IMAGE H1 */
+.imgheader {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../images/photoh1.jpg");
+  background-size: cover;
+  height: 40rem;
+}
+
+header {
+  position: absolute;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+h1 {
+  position: absolute;
+  position: absolute;
+  left: 52.19%;
+  right: 11.21%;
+  top: 10.42%;
+  bottom: 69.28%;
+  background: #FFFFFF;
+}
+
+header {
+  height: 500px;
+  width: 1170px;
+}
+
+
+
+/* TABLEAU */
+main {
+margin: 0 0 0 0px;
+  width: 1370px;
+  margin: 639px 0 0 0px;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+
+
+img h3 article a {
+  width: 30%;
+}
+
+img {
+  height: 10rem;
+  margin: 9rem;
+  display: block;
+}
+
+.single-product {
+  max-width: 100%;
+  position:  sticky;
+X
+}
+
+a {
+  display: block;
+}
+
+
+
+.production-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.production-actions p {
+  margin: 0;
+  font-size: 25px;
+  font-size: 25px;
+}
+
+.product-cta {
+  background-color: #B62561;
+  padding: 10px 15px;
+  color: white;
+  border-radius: 10%;
+  text-decoration: none;
+}
+
+.product-cta:hover {
+  background-color: rgba(255, 0, 106, .7);
+}
+
+a:hover {
+  transition: ease .7s;
+}
+
+.single-product:last-of-type {
+  margin-right: 0px;
+}
+
+;
+}
+
+.product-image {
+  position: relative;
+}
+
+
+
+.product-image:hover .overlay {
+opacity: 1;
+  transition: ease .7s;
+}
+
+
+
+
+strong{
+margin: 0 0 0 110px;
+}
+
+h2{
+  margin: 65px 0 0 69px ;
+}
+
+/* AVANTAGE APP */
+
+.avantage {
+  text-align: center;
+}
+
+
+section {
+
+  width: 1370px;
+  margin: -57px 0 0 40px;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+
+
+img h3 article a {
+  width: 30%;
+}
+
+img {
+  height: 10rem;
+  margin: 9rem;
+  display: block;
+}
+
+.single-product1 {
+  max-width: 100%;
+  position:  sticky;
+X
+}
+
+a {
+  display: block;
+}
+
+
+
+.production-actions1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.production-actions1 p {
+  margin: 0;
+  font-size: 25px;
+  font-size: 25px;
+}
+
+.product-cta1 {
+  background-color: #B62561;
+  padding: 10px 15px;
+  color: white;
+  border-radius: 10%;
+  text-decoration: none;
+}
+
+.product-cta1:hover {
+  background-color: rgba(255, 0, 106, .7);
+}
+
+a:hover {
+  transition: ease .7s;
+}
+
+.single-product1:last-of-type {
+  margin-right: 0px;
+}
+
+
+.product-image1 {
+  position: relative;
+}
+
+
+
+.product-image1:hover .overlay {
+opacity: 1;
+  transition: ease .7s;
+}
+
+
+
+
+strong{
+margin: 0 0 0 110px;
+}
+
+/* footer */
+
+footer {
+  height: 391px;
+  background-color: #0C0416;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.title-footer {
+  color: #C8C8C8;
+}
+
+.form form {
+  padding: 16px 0;
+  margin: 0 auto;
+  max-width: 300px;
+}
+
+.form label, .form textarea, .form input {
+  display: block;
+  width: 100%
+}
+
+.form label {
+  margin-bottom: 8px;
+  color: white;
+}
+
+.form input, .form textarea {
+  color: white;
+  margin-bottom: 16px;
+  background: none;
+  border-color: white;
+  border-style: solid;
+  border-width: 0 0 1px 0;
+  padding: 8px 0;
+}
+
+.form textarea {
+  border-width: 1px;
+}
+
+.form input[type=submit] {
+  width: auto;
+  cursor: pointer;
+  padding: 8px;
+  margin: auto;
+  border: 0;
+  background-color: #D10F0F;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.text-footer {
+  color: white;
+  text-decoration: none;
+}
+.go-top{
+  position: fixed;
+  bottom: 2px;
+  right: 5px;
+  font-size: 120px;
+
+}
+.go-top a{
+  color: black;
+}

@@ -1,0 +1,162 @@
+/* SMARTPHONE */
+@media (max-device-width : 768px) {
+  html{
+    max-width: 100%;
+  }
+  body {
+    padding: 0px;
+  }
+
+  .nav-links ul li {
+    padding: 0px;
+  }
+
+  .categoryProduct {
+    display: none;
+  }
+
+  header {
+    width: 100%;
+    height: 175px;
+    padding: 0px;
+    margin-top: 37px;
+    margin-left: 0px;
+  }
+
+  .main-header h1 {
+    font-size: 19px;
+    left: 13px;
+    top: 0px;
+  }
+
+  .main-header img {
+    height: 183px;
+  }
+
+  .main-header #ctaHeader {
+    width: 203px;
+    height: 36px;
+    top: 90px;
+    font-size: 15px;
+    left: 7px;
+  }
+
+  .resumeWebSite {
+    font-size: 14px;
+    width: 100%;
+    height: 74px;
+    margin: 0px;
+  }
+
+  .categoryProduct {
+    display: none;
+  }
+  main {
+
+    width: 270px;
+    margin: 839px 0 0 0px;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;}
+
+    section {
+
+      width: 270px;
+      margin: 39px 0 0 0px;
+      display: flex;
+
+
+      align-items: center;
+      text-align: center;}
+
+
+  .menuBurger {
+    display: flex;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+  }
+  .shop1 {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: left;
+  }
+  .shop {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .product {
+    width: 100%;
+    height: 159px;
+    margin-top:10px;
+
+  }
+
+  .product img {
+    padding: 23px 0px 0px 19px;
+    height: 117.79px;
+  }
+
+  .textProduct {
+    font-size: 15px;
+  }
+  .favoriteMacaron{
+    top: 10px;
+    left: 113px;
+  }
+  .ctaProduct {
+    width: 156px;
+    height: 30px;
+    font-size: 16px;
+    right: 10px;
+  }
+
+  .add {
+    height: 181px;
+  }
+
+  .addStrong {
+    font-size: 25px;
+  }
+
+  .addSpan {
+    font-size: 18px;
+  }
+
+  .add #ctaADD {
+    width: 129px;
+    height: 22px;
+    font-size: 11px;
+    line-height: 13px;
+  }
+
+  .icon img {
+    height: 85px;
+  }
+
+  .icon p {
+    font-size: 10px;
+    text-align: center;
+  }
+
+  footer {
+    height: auto;
+  }
+
+  .footer-container {
+    flex-direction: column;
+  }
+  .footer-container p {
+    padding-left: 35px;
+  }
+  .go-top {
+    font-size: 75px;
+  }
+  .oeoe1{
+    margin: 32px;
+  }
+}
